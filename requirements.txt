@@ -1,0 +1,14 @@
+pandas
+numpy
+inflection
+datetime
+seaborn
+xgboost
+scipy
+tabulate
+boruta
+sklearn
+scikit-learn-intelex
+jupyter notebook
+jupyter_contrib_nbextensios 
+
